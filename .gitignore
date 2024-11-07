@@ -7,3 +7,5 @@
 *~
 \#*\#
 /README-elpa
+/.direnv/
+/enchant.h
